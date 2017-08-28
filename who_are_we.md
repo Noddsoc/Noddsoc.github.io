@@ -16,4 +16,4 @@ We are the University of Sheffield’s roleplaying society – these friendly pe
   <li>Webmaster: Jack Slinger</li>
 </ul>
 
-If you have questions, problems or ideas – these people are the ones to ask. You can contact us on Facebook via the group page, or by email. You can also come along to our committee meetings, usually on Wednesday’s at 6pm every month, in the gallery of the Student’s Union (same place NoDDSoc normally meets).
+If you have questions, problems or ideas – these people are the ones to ask. You can contact us on [Facebook via the group page](https://www.facebook.com/groups/173390986083361/), or by [email](mailto:noddsoc@sheffield.ac.uk). You can also come along to our committee meetings, usually on Wednesday’s at 6pm every month, in the gallery of the Student’s Union (same place NoDDSoc normally meets).
