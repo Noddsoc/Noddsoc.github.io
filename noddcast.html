@@ -1,0 +1,19 @@
+---
+layout: page
+title: Noddcast
+permalink: /noddcast/
+---
+<p>some blurb here</p>
+
+<ul class="post-list">
+  {% for episode in site.noddcast %}
+    <li>
+      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+      <span class="post-meta">{{ episode.date | date: date_format }}</span>
+
+      <h2>
+        <a class="post-link" href="{{ episode.url | relative_url }}">{{ episode.title | escape }}</a>
+      </h2>
+    </li>
+  {% endfor %}
+</ul>
