@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  "Test Post"
-categories: jekyll noddcast
+title:  "Episode 1"
 ---
-moo hey
+
+Some episode description here
+
+{% include youtube_player.html id='Ie32udSxwhg' %}
